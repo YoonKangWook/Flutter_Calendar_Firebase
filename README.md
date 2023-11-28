@@ -1,6 +1,6 @@
-# week10_1109
+# Smart Moblie Programming
 
-A new Flutter project.
+week12 Apply Firebase to Calendar
 
 ## Getting Started
 
